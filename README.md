@@ -1,4 +1,4 @@
-## Repository for OpenCV's extra modules
+## Repository for OpenCV's extra modules ess
 
 This repository is intended for the development of so-called "extra" modules,
 contributed functionality. New modules quite often do not have stable API,

@@ -51,7 +51,7 @@ If you prefer using the GUI version of CMake (cmake-gui), then, you can add `ope
 
 8. To run, linker flags to contrib modules will need to be added to use them in your code/IDE. For example to use the aruco module, "-lopencv_aruco" flag will be added.
 
-### Update the repository documentation
+### Update the repository documentations
 
 In order to keep a clean overview containing all contributed modules, the following files need to be created/adapted:
 
